@@ -40,7 +40,13 @@
     width: 60rem;
     margin: -6rem auto 2rem auto;
     box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.4);
+    transition: all 0.4s ease;
   }
+
+  #latest-posts:hover {
+    background-color:#3c0387;
+  }
+
   
   #latest-posts h2 {
     text-align: center;
